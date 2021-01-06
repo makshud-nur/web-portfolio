@@ -1,0 +1,37 @@
+body {
+    margin-left: 0;
+}
+.separate {
+    color: crimson;
+}
+p{
+    line-height: 1.5;
+}
+h1{
+    font-weight: 1500;
+    font-size: x-large;
+}
+.identity {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.identity img{
+    width: 100%;
+}
+section{
+    height: 250px;
+}
+.section-top{
+    border-width: 2mm;
+    border-color: crimson;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
